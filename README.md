@@ -1,4 +1,4 @@
-Climate Analysis and Exploration:
+## Climate Analysis and Exploration:
 
 Use Python and SQLAlchemy to do basic climate analysis and data exploration of the climate database. 
 
@@ -16,7 +16,7 @@ Use SQLAlchemy automap_base() to reflect the tables into classes and save a refe
 
 called Station and Measurement.
 
-Precipitation Analysis:
+## Precipitation Analysis:
 
 Design a query to retrieve the last 12 months of precipitation data.
 
@@ -28,7 +28,7 @@ Sort the DataFrame values by date.
 
 Plot the results using the DataFrame plot method.
 
-Station Analysis:
+## Station Analysis:
 
 Design a query to calculate the total number of stations, the most active stations, 
 
