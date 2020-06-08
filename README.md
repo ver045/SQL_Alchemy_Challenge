@@ -4,7 +4,7 @@ Use Python and SQLAlchemy to do basic climate analysis and data exploration of t
 
 This will be completed using SQLAlchemy ORM queries, Pandas, and Matplotlib.
 
-To do this, I will use the provided starter notebook and hawaii.sqlite files to complete the climate analysis
+To do this, use the provided starter notebook and hawaii.sqlite files to complete the climate analysis
 
 and data exploration.
 
@@ -34,7 +34,7 @@ Design a query to calculate the total number of stations, the most active statio
 
 list the stations and observation counts in descending order.
 
-I will be analyzing the following: "Which station has the highest number of observations?"
+Analyze the following: "Which station has the highest number of observations?"
 
 Design a query to retrieve the last 12 months of temperature observation data (tobs).
 
